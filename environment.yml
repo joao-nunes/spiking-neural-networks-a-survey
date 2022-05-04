@@ -1,0 +1,10 @@
+name: spiking-nets
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip=20.3.1
+  - openslide
+  - pip:
+    - -r file:requirements.txt
