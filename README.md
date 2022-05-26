@@ -12,7 +12,7 @@ The field of Deep Learning (DL) has seen a remarkable series of developments wit
 
 This work implements: ["Unsupervised Learning of Digit Recognition using Spike Timing Dependent Plasticity"](https://doi.org/10.3389/fncom.2015.00099) [1] as suggested in [BindsNET examples directory](https://github.com/BindsNET/bindsnet/blob/master/examples/mnist/eth_mnist.py).
 
-An honorable mention to the authors of [Enabling spike-based backpropagation for training deep neural network architectures] (https://doi.org/10.3389/fnins.2020.00119) [2] as we built on top of their ideas regarding spiking neural networks trained with surrogate gradients.
+An honorable mention to the authors of [Enabling spike-based backpropagation for training deep neural network architectures](https://doi.org/10.3389/fnins.2020.00119) [2] as we built on top of their ideas regarding spiking neural networks trained with surrogate gradients.
  
 We thank the authors of the SNNs *Python* packages we used in the experiments:
 
