@@ -2,7 +2,7 @@
 
 ## About
 
-Implementation of the experiments in "Spiking Neural Networks: A Survey" by João Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S. Cardoso
+Oficial repository of the paper "Spiking Neural Networks: A Survey" by João Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S. Cardoso
 
 ## Abstract
 
