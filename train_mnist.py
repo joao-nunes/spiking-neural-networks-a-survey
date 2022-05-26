@@ -22,6 +22,7 @@ from bindsnet.analysis.plotting import (
     plot_performance,
     plot_voltages,
 )
+from preprocessing import DropInputs
 
 import pickle as cPickle
 import os
