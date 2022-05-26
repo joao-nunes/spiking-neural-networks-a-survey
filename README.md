@@ -1,4 +1,4 @@
-# spiking-neural-networks-a-survey
+# Spiking Neural Networks: A Survey
 
 ## Abstract
 
