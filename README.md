@@ -7,13 +7,17 @@ The field of Deep Learning (DL) has seen a remarkable series of developments wit
 ## Credits and Aknowledgments
 
 #### Unsupervised Learning of Digit Recognition using Spike Timing Dependent Plasticity [1]
+
 This work implements the [DiehlAndCook2015](https://doi.org/10.3389/fncom.2015.00099) SNN model as suggested in [BindsNET examples directory](https://github.com/BindsNET/bindsnet/blob/master/examples/mnist/eth_mnist.py).
 
 We thank the authors of the SNNs *Python* packages we used in this work:
 
 -- <cite>[BindsNET][2]</cite>
+
 -- <cite>[snnTorch][3]</cite>
 
 [1]: P. Diehl and M. Cook, “Unsupervised learning of digit recognition using spike-timing-dependent plasticity,” Frontiers in Computational Neuroscience, vol. 9, 2015. [Online]. Available: https://www.frontiersin.org/article/10.3389/fncom.2015.00099
+
 [2]: H. Hazan, D. J. Saunders, H. Khan, D. Patel, D. T. Sanghavi, H. T. Siegelmann, and R. Kozma, “Bindsnet: A machine learningoriented spiking neural networks library in python,” Frontiers in Neuroinformatics, vol. 12, p. 89, 2018. [Online]. Available: https://www.frontiersin.org/article/10.3389/fninf.2018.00089
+
 [3]: Jason K. Eshraghian, Max Ward, Emre Neftci, Xinxin Wang, Gregor Lenz, Girish Dwivedi, Mohammed Bennamoun, Doo Seok Jeong, and Wei D. Lu “Training Spiking Neural Networks Using Lessons From Deep Learning”. arXiv preprint arXiv:2109.12894, September 2021.
