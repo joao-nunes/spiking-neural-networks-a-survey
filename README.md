@@ -32,7 +32,7 @@ We thank the authors of the SNNs *Python* packages we used in the experiments:
 
 If you use this repository, please cite:
 
-J. D. Nunes, M. Carvalho, D. Carneiro and J. S. Cardoso, "Spiking Neural Networks: A Survey," in IEEE Access, [doi: 10.1109/ACCESS.2022.3179968](doi: 10.1109/ACCESS.2022.3179968).
+J. D. Nunes, M. Carvalho, D. Carneiro and J. S. Cardoso, "Spiking Neural Networks: A Survey," in IEEE Access, [doi: 10.1109/ACCESS.2022.3179968](doi: 10.1109/ACCESS.2022.3179968) .
 
 BibTeX citation:
 
