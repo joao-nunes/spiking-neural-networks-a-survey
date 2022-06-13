@@ -1,16 +1,13 @@
 matplotlib
-pandas
 sklearn
 pillow
 numpy
 tqdm
 torchsummary
 docopt
-scikit-image
 scipy
 ipykernel
 pickle-mixin
-patchify
 git+https://github.com/BindsNET/bindsnet.git
 torch==1.10.0+cu111 -f https://download.pytorch.org/whl/cu111/torch_stable.html
 torchvision==0.11.1+cu111 -f https://download.pytorch.org/whl/cu111/torch_stable.html
