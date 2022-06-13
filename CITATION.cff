@@ -2,7 +2,7 @@ cff-version: 1.0.0
 message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Nunes"
-  given-names: "João"
+  given-names: "João D."
   orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Carvalho"
   given-names: "Marcelo"
@@ -13,6 +13,6 @@ authors:
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Spiking Neural Networks: A Survey"
 version: 1.0.0
-doi: 10.1109/ACCESS.2022.DOI
-date-released: 2022-05-26
+doi: 10.1109/ACCESS.2022.3179968
+date-released: 2022-06-03
 url: https://github.com/joao-nunes/spiking-neural-networks-a-survey
