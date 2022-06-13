@@ -2,7 +2,22 @@
 
 ## About
 
-Oficial repository of the paper "Spiking Neural Networks: A Survey" by João Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S. Cardoso
+Oficial repository of the paper "Spiking Neural Networks: A Survey" by João Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S. Cardoso.
+If you use this repository, please cite:
+
+J. D. Nunes, M. Carvalho, D. Carneiro and J. S. Cardoso, "Spiking Neural Networks: A Survey," in IEEE Access, [doi:10.1109/ACCESS.2022.3179968](10.1109/ACCESS.2022.3179968).
+
+BibTeX citation:
+
+@ARTICLE{9787485,
+  author={Nunes, Jo&#x00E3;o D. and Carvalho, Marcelo and Carneiro, Diogo and Cardoso, Jaime S.},
+  journal={IEEE Access}, 
+  title={Spiking Neural Networks: A Survey}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/ACCESS.2022.3179968}}
 
 ## Abstract
 
@@ -27,22 +42,3 @@ We thank the authors of the SNNs *Python* packages we used in the experiments:
 [3]: H. Hazan, D. J. Saunders, H. Khan, D. Patel, D. T. Sanghavi, H. T. Siegelmann, and R. Kozma, “Bindsnet: A machine learning oriented spiking neural networks library in python,” Frontiers in Neuroinformatics, vol. 12, p. 89, 2018. [Online]. Available: https://www.frontiersin.org/article/10.3389/fninf.2018.00089
 
 [4]: Jason K. Eshraghian, Max Ward, Emre Neftci, Xinxin Wang, Gregor Lenz, Girish Dwivedi, Mohammed Bennamoun, Doo Seok Jeong, and Wei D. Lu “Training Spiking Neural Networks Using Lessons From Deep Learning”. arXiv preprint arXiv:2109.12894, September 2021.  [Online]. Available: https://arxiv.org/abs/2109.12894
-
-## Citation
-
-If you use this repository, please cite:
-
-J. D. Nunes, M. Carvalho, D. Carneiro and J. S. Cardoso, "Spiking Neural Networks: A Survey," in IEEE Access, [doi: 10.1109/ACCESS.2022.3179968](doi:10.1109/ACCESS.2022.3179968) .
-
-BibTeX citation:
-
-@ARTICLE{9787485,
-  author={Nunes, Jo&#x00E3;o D. and Carvalho, Marcelo and Carneiro, Diogo and Cardoso, Jaime S.},
-  journal={IEEE Access}, 
-  title={Spiking Neural Networks: A Survey}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/ACCESS.2022.3179968}}
-
