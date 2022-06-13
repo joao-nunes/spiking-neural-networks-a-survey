@@ -5,11 +5,11 @@
 Oficial repository of the paper "Spiking Neural Networks: A Survey" by João Nunes, Marcelo Carvalho, Diogo Carneiro, and Jaime S. Cardoso.
 If you use this repository, please cite:
 
-J. D. Nunes, M. Carvalho, D. Carneiro and J. S. Cardoso, "Spiking Neural Networks: A Survey," in IEEE Access, [doi:10.1109/ACCESS.2022.3179968](10.1109/ACCESS.2022.3179968).
+J. D. Nunes, M. Carvalho, D. Carneiro and J. S. Cardoso, "Spiking Neural Networks: A Survey," in IEEE Access, doi: 10.1109/ACCESS.2022.3179968.
 
 BibTeX citation:
 
-@ARTICLE{9787485,
+@ARTICLE{Nunes2022,
   author={Nunes, Jo&#x00E3;o D. and Carvalho, Marcelo and Carneiro, Diogo and Cardoso, Jaime S.},
   journal={IEEE Access}, 
   title={Spiking Neural Networks: A Survey}, 
